@@ -62,6 +62,7 @@ form button:hover {
   justify-content: space-between;
   align-items: center;
   transition: all 1s ease;
+  margin-right: 420px;
 }
 .filter-todo {
   padding: 1rem;
@@ -74,7 +75,7 @@ form button:hover {
 
 .trash-btn,
 .complete-btn {
-  background: #ff6f47;
+  background: #d447ff;
   color: white;
   border: none;
   padding: 1rem;
@@ -86,6 +87,8 @@ form button:hover {
 }
 .todo-item {
   padding: 0rem 0.5rem;
+  width: 349px;
+  text-align: center;
 }
 
 .fa-trash,
